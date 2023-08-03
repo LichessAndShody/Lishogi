@@ -1,0 +1,2 @@
+# Lishogi
+Director Lishogi.org
